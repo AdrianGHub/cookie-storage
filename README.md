@@ -2,7 +2,7 @@
 
 > I've accomplished this practical project as a part of Opanuj JavaScript course. The project was built using pure JavaScript( programming logic and functionality ) and HTML/CSS (layout, styles). It's main focus is to validate card number from the selecion of 3 financial services (Visa, Mastercard or AmericanExpress) based on Luhn Algorithm.
 
-<p style="align:center">
+<p align="center">
   <img src="https://github.com/AdrianGHub/cookie-storage/blob/master/github/cookie-capture.png" alt="Cookie capture."/>
 </p>
 
@@ -47,7 +47,7 @@ Having opened browser with mentioned file decide if you would like to store cook
 > To delete a cookie go to DevTools -> Application -> Local Storage -> right click on cookie and delete it. 
 
 
-<p style="align:center">
+<p align="center">
   <img src="https://github.com/AdrianGHub/cookie-storage/blob/master/github/cookie-absorb.gif" alt="Cookie animated gif."/>
 </p>
 
