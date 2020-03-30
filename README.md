@@ -2,11 +2,8 @@
 
 > I've accomplished this practical project as a part of Opanuj JavaScript course. The project was built using pure JavaScript( programming logic and functionality ) and HTML/CSS (layout, styles). It's main focus is to validate card number from the selecion of 3 financial services (Visa, Mastercard or AmericanExpress) based on Luhn Algorithm.
 
-
-  ![GitHub Logo](/github/cookie-capture.png)
-
 <p style="align:center">
-  <img src="https://github.com/AdrianGHub/github/cookie-capture.png" alt="Cookie capture."/>
+  <img src="https://github.com/AdrianGHub/blob/master/github/cookie-capture.png" alt="Cookie capture."/>
 </p>
 
 ## Table of contents :notebook_with_decorative_cover:
