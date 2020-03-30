@@ -1,7 +1,6 @@
 # Cookie-Monster :rocket:
 
-> I've accomplished this practical project as a part of Opanuj JavaScript course. The project was built using pure JavaScript( programming logic and functionality ) and HTML/CSS (layout, styles). It's main focus is to validate card number from the selecion of 3 financial services (Visa, Mastercard or AmericanExpress) based on Luhn Algorithm.
-
+> I've accomplished this practical project as a part of Opanuj JavaScript course. The project was built using pure JavaScript( programming logic and functionality ) and HTML/CSS (layout, styles). It's basically implementation of pop-up that user can see on most of the websites asking for small piece of data sent from a website and stored on the user's computer.
 <p align="center">
   <img src="https://github.com/AdrianGHub/cookie-storage/blob/master/github/cookie-capture.png" alt="Cookie capture."/>
 </p>
