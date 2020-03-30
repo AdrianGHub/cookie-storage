@@ -6,7 +6,7 @@
   ![GitHub Logo](/github/cookie-capture.png)
 
 <p style="align:center">
-  <img src="https://github.com/AdrianGHub//github/cookie-capture.png" alt="Cookie capture."/>
+  <img src="https://github.com/AdrianGHub/github/cookie-capture.png" alt="Cookie capture."/>
 </p>
 
 ## Table of contents :notebook_with_decorative_cover:
